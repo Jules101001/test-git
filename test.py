@@ -1,2 +1,5 @@
 def f(x):
-    return x+3
+    return 2*x+3
+
+def g(x):
+    return x+4
