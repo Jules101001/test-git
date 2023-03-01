@@ -3,3 +3,5 @@ def f(x):
 
 def g(x):
     return x+4
+def h(x):
+    return f(x)+g(x)
